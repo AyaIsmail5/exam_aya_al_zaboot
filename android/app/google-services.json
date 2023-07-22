@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "843748352556",
+    "project_id": "exam-aya-al-zaboot",
+    "storage_bucket": "exam-aya-al-zaboot.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:843748352556:android:17268aba3cc1903667a789",
+        "android_client_info": {
+          "package_name": "com.example.exam_aya_al_zaboot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "843748352556-2llprip4dpr7rajo6tofh77736rcrann.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCn4FU86F1Xb8QHKP5Wcq3dHtW5ynfMQgc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "843748352556-2llprip4dpr7rajo6tofh77736rcrann.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
