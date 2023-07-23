@@ -1,5 +1,5 @@
-import 'package:exam_aya_al_zaboot/ad.dart';
 import 'package:exam_aya_al_zaboot/firebase_options.dart';
+import 'package:exam_aya_al_zaboot/login.dart';
 import 'package:exam_aya_al_zaboot/sph.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
@@ -25,8 +25,10 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
        
         primarySwatch: Colors.blue,
+                scaffoldBackgroundColor: Colors.white,
+
       ),
-     home: AdScreen(),
+     home: LoginScreen(),
      debugShowCheckedModeBanner: false,
     );
   }
